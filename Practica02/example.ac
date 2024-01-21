@@ -1,0 +1,10 @@
+// Comentario sobre el código
+float b
+// Otro comentario
+i a
+// Asignación de entero
+a = 5
+// Asignación y operación con flotante
+b = a + 3.2
+// Instrucción de impresión
+p b
